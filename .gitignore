@@ -3,8 +3,8 @@
 #
 # Binaries for programs and plugins
 
-!*.*
-!/.gitignore
+#!*.*
+!.gitignore
 
 !*.go
 !*.mod
