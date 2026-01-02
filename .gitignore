@@ -2,6 +2,17 @@
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #
 # Binaries for programs and plugins
+
+*
+!*.*
+!/.gitignore
+
+!*.go
+!*.mod
+!*.sum
+!go.work
+!go.work.sum
+
 *.exe
 *.exe~
 *.dll
@@ -30,3 +41,4 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
