@@ -3,16 +3,6 @@
 #
 # Binaries for programs and plugins
 
-#!*.*
-!.gitignore
-
-!*/*.*
-!*/*/*.*
-!*.go
-!*.mod
-!*.sum
-!go.work
-!go.work.sum
 
 *.exe
 *.exe~
